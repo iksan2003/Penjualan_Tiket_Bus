@@ -14,4 +14,5 @@ Aplikasi berbasis Python dengan GUI untuk jual beli akun PUBG.
    ```sh
    git clone https://github.com/iksan2003/jual-beli-akun-pubg.git
 cd jual-beli-akun-pubg
-https://github.com/iksan2003/jual-beli-akun-pubg.git
+
+---
