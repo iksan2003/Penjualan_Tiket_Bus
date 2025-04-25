@@ -5,3 +5,4 @@ Terdapat fitur-fitur seperti berikut
 - Alamat pembeli.
 - Tujuan.
 - Harga tiket.
+- Tanggal pemberangkatan
