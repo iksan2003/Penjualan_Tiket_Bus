@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.Form1.resources
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.Properties.Resources.resources
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.csproj.GenerateResource.cache
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\bin\Debug\penjualan_tiket_bus.exe.config
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\bin\Debug\penjualan_tiket_bus.exe
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\bin\Debug\penjualan_tiket_bus.pdb
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.exe
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.pdb
+C:\Users\user\source\repos\penjualan_tiket_bus\penjualan_tiket_bus\obj\Debug\penjualan_tiket_bus.Form2.resources
